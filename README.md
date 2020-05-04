@@ -10,3 +10,5 @@ of a tech retailer. The present script is complemented by an NLP classifier extr
 information for different invoicing and rebate documents. All the processed documents, after being classified,
 are saved to the correct location in a local database and processing logs are generated for debugging and 
 analytics purposes.
+
+## Click <a href="https://nvios.github.io/luca_bontempi/main.html"><strong>here</strong></a> to see my latest projects!
